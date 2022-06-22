@@ -1,4 +1,4 @@
-# Trivia Fanatics
+# PowerShell Hackathon Project
 
 ## Jackson McGuire 
 
