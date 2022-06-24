@@ -1,4 +1,4 @@
-# Trivia Fanatics
+# PowerShell Hackathon Project
 
 ## Jackson McGuire 
 
@@ -32,5 +32,5 @@
 
 ### Challenges:
  * Learning how to use PowerShell, and furthermore, how to write scripts in PowerShell
- * Permissions issues that caused me to write the Script off of a VM using VirtualBox with a Windows 10 key
+ * Permissions issues that caused me to write the Script off of a VM using VirtualBox
 
